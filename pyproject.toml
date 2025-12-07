@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mipcandy-bundles"
-version = "0.0.2"
+version = "0.1.0"
 description = "Bundles for MIP Candy"
 license = "Apache-2.0"
 readme = "README.md"
